@@ -6,6 +6,8 @@ Each scan is indexed and dated with UTC timestamps. You might see some inconsita
 
 [Here it is!](https://drive.google.com/file/d/1K_Dica7f4jhLrJqitCfr46AFVfhMP-7v/view?usp=sharing)
 
+(Note: I would of uploaded it here but due to size contraints Github won't let me)
+
 It is 5.2GB. It is in JSON. So uhhh
 
 Use Pandas, You will probably want to normalize and then chunk it. (Or at least that is what chat-gpt told me!)
